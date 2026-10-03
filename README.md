@@ -4,8 +4,7 @@ A responsive digital wedding invitation webpage built with HTML, CSS, and Vanill
 
 ## 🚀 Live Demo
 Check out the live website on GitHub Pages:  
-[https://Subhradip1999.github.io/Wedding_Invitation/](https://Subhradip1999.github.io/Wedding_Invitation/)
-
+https://riyatalukder391.github.io/Wedding_Invitation/
 ## ✨ Features
 * **Interactive Journey Grid**: Animated Polaroid-style photos dropping sequentially on scroll.
 * **Photo Focus / Zoom**: Click any journey photo to expand and preview without leaving the section.
